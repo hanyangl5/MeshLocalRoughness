@@ -1,6 +1,6 @@
 # Local Roughness Computation
 
-A python program to compute and display the local roughness of a .off mesh.
+A python program to compute and display the local roughness of a 3D mesh.
 
 ---
 
