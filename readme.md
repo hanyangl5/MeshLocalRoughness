@@ -1,4 +1,4 @@
-# Local Roughness Computation
+# Mesh Local Roughness
 
 A python program to compute and display the local roughness of a 3D mesh.
 
@@ -27,3 +27,4 @@ you can also download [LIRIS/EPFL 3D Model General-Purpose database](https://per
 ## Reference
 
 [A local roughness measure for 3D meshes and its application to visual masking](https://www.semanticscholar.org/paper/A-local-roughness-measure-for-3D-meshes-and-its-to-Lavou%C3%A9/670924b050e53d7d6f5369018271eb086cd39dfd)
+[A fast roughness-based approach to the assessment of 3D mesh visual quality]()
