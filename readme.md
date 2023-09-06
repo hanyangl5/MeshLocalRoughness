@@ -6,10 +6,7 @@ A python program to compute and display the local roughness of a .off mesh.
 
 venus mesh with increasing roughness
 
-![](figs/1.png)
-![](figs/2.png)
-![](figs/3.png)
-![](figs/4.png)
+![](figs/venus.png)
 
 ## Test the program
 
